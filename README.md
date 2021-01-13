@@ -2,6 +2,8 @@
 
 ## Project Setup
 
+> Note: If You Are Using `npm` You Should delete the `yarn.lock` file
+
 ```bash
 # Clone the repo
   git clone git@github.com:Eyoatam/christmas-bot.git || gh repo clone Eyoatam/christmas-bot
